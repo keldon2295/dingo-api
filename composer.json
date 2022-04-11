@@ -1,6 +1,6 @@
 {
-    "name": "api-ecosystem-for-laravel/dingo-api",
-    "description": "A RESTful API package for the Laravel and Lumen frameworks.",
+    "name": "keldon2295/dingo-api",
+    "description": "fork larvel 9 test A RESTful API package for the Laravel and Lumen frameworks.",
     "keywords": [
         "api",
         "dingo",
